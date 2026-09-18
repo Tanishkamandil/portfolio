@@ -82,7 +82,7 @@ export const ExperienceSection: React.FC = () => {
                       </div>
 
                       <h3 className="display-font mt-2 text-2xl font-extrabold tracking-[-0.03em] text-slate-950 sm:text-3xl">
-                        Software Developer
+                        Full Stack Developer
                       </h3>
 
                       <p className="mt-1 text-sm font-semibold text-slate-500">
